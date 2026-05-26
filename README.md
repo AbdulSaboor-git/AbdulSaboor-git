@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AbdulSaboor-git
+# 👋 Hi, I’m Abdul Saboor
 - 👀 I’m passionate about solving complex problems and building innovative solutions.
 - 🌱 I have done Bachelor's in Computer Science (BSCS) and currently I am learning new technologies to enhance my skills.
 - 💡 I’m particularly interested in algorithms, data structures, and optimization challenges.
